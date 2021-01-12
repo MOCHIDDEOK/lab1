@@ -1,12 +1,5 @@
-/* applies to anything of class "example-class-selector" */
-.example-class-selector {
-	margin-top: 2em;
-}
-
-/* applies to any <p> descendants of an element of class "example-class-selector" */
-.example-class-selector p {
-	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-	color: #CC00AA;
+/*.project {
+     margin-left: 100px;
 }
 
 /* this style exists to make it obvious that you've successfully linked
@@ -32,3 +25,14 @@ body {
      position: absolute;
      z-index: -1;
 }
+.project {
+     background-color: #e6f5ff;
+     margin-left: 25px;
+}
+
+.thumbnail {
+     width:400px;
+     height: 260px;
+     border: 2px solid #ffffff;
+}
+
